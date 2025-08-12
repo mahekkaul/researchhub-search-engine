@@ -53,6 +53,7 @@ python app.py
 
 Go to: http://localhost:5000
 
+```
 
 📈 Future Enhancements
 ✅ Advanced filters (author, date, domain)
@@ -64,6 +65,6 @@ Go to: http://localhost:5000
 Pull requests are welcome! If you have ideas for improvement, feel free to fork and contribute 🚀
 
 📬 Contact
-Created with ❤️ by Mac (Mahek)
+Created with ❤️ by Mahek Kaul
 GitHub • LinkedIn • Email: kaul.mahek@gmail.com
 
