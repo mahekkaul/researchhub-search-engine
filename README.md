@@ -54,6 +54,7 @@ python app.py
 Go to: http://localhost:5000
 
 ```
+---
 
 📈 Future Enhancements
 ✅ Advanced filters (author, date, domain)
@@ -61,8 +62,12 @@ Go to: http://localhost:5000
 ✅ Save/download search results
 ✅ Paper preview modal popups
 
+---
+
 🤝 Contributing
 Pull requests are welcome! If you have ideas for improvement, feel free to fork and contribute 🚀
+
+---
 
 📬 Contact
 Created with ❤️ by Mahek Kaul
